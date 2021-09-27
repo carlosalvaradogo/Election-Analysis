@@ -12,8 +12,9 @@ Complete an audit of a hypothetical local congressional election:
 
 ## Resources:
 
-Data source: election_results.csv
-Software: Python 3.9.7 and Visual Studio Code 1.60.0
+-Data source: election_results.csv
+
+-Software: Python 3.9.7 and Visual Studio Code 1.60.0
 
 ## Summary
 
@@ -21,6 +22,7 @@ The audit of the hypothetical election shows:
 
 -Total votes: 369,711
 -Candidates, alongside their associated reveived votes presented as absolute number and as percentage of total votes:
+
    -Charles Casper Stockham: 23.0% (85,213)
    -Diana DeGette: 73.8% (272,892)
    -Raymon Anthony Doane: 3.1% (11,606)

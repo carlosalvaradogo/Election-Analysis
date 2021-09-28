@@ -68,8 +68,3 @@ with open(file_to_load) as election_data:
         print(election_results, end="")
 ```
 
-The code presented in "2." of "## Election Audit Summary", alongside similar code, would yield the following result:
- 
-
-
-
